@@ -14,6 +14,18 @@ A personal-finance analytics project built with **SQL Server (T-SQL)**, **Excel*
 
 ## Power BI Dashboard
 
+### Overview
+![Overview](Daily_Transactions_Dashboards/DT_Overview.png)
+
+### Category
+![Category](Daily_Transactions_Dashboards/DT_Category.png)
+
+### Time Trend
+![Time Trend](Daily_Transactions_Dashboards/DT_Time_Trend.png)
+
+### Transaction Method
+![Transaction Method](Daily_Transactions_Dashboards/DT_Transaction_Method.png)
+
 The report has four pages, each with slicers and a page navigator:
 
 | Page | What it shows |
@@ -22,18 +34,6 @@ The report has four pages, each with slicers and a page navigator:
 | **Category** | Top 5 expense and income categories, category → subcategory treemap |
 | **Time Trend** | Yearly income, expense and net balance, YoY growth, busiest month per year |
 | **Transaction Method** | Top 3 payment modes by count and by amount |
-
-### Overview
-![Overview](dashboard_overview.png)
-
-### Category
-![Category](dashboard_category.png)
-
-### Time Trend
-![Time Trend](dashboard_time_trend.png)
-
-### Transaction Method
-![Transaction Method](dashboard_transaction_method.png)
 
 ## SQL Analysis
 
@@ -99,7 +99,8 @@ Use the slicers to filter by year and type, then dig into the **Category** page 
 
 - 📊 [Power BI report](Daily_Transactions.pbix)
 - 🧮 [SQL queries](Daily_Transactions.sql)
-- 📗 [Excel dataset](Daily_Transactions.xlsx)
+- 📗 [Excel dataset](Daily_Transcations.xlsx)
+- 🖼️ [Dashboard screenshots](Daily_Transactions_Dashboards)
 
 ## How to Use
 
