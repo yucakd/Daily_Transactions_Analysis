@@ -1,6 +1,6 @@
 # Daily Transactions Analytics
 
-A personal-finance analytics project built with **SQL Server (T-SQL)**, **Excel** and **Power BI**. It analyzes 2,461 household transactions (Jan 2015 – Sep 2018, INR) to show where money comes from, where it goes, and how the balance changes over time.
+A personal-finance analytics project built with **SQL Server**, **Excel** and **Power BI**. It analyzes 2,461 household transactions (Jan 2015 – Sep 2018, INR) to show where money comes from, where it goes, and how the balance changes over time.
 
 ## Key Figures
 
@@ -109,4 +109,4 @@ Use the slicers to filter by year and type, then dig into the **Category** page 
 
 ## Tools
 
-SQL Server (T-SQL) · Microsoft Excel · Power BI
+SQL Server  · Microsoft Excel · Power BI
